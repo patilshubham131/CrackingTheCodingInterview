@@ -1,0 +1,14 @@
+C:\Users\shubh\source\repos\CrackingTheCodingInterview\CrackingTheCodingInterview\bin\Debug\netcoreapp3.1\CrackingTheCodingInterview.exe
+C:\Users\shubh\source\repos\CrackingTheCodingInterview\CrackingTheCodingInterview\bin\Debug\netcoreapp3.1\CrackingTheCodingInterview.deps.json
+C:\Users\shubh\source\repos\CrackingTheCodingInterview\CrackingTheCodingInterview\bin\Debug\netcoreapp3.1\CrackingTheCodingInterview.runtimeconfig.json
+C:\Users\shubh\source\repos\CrackingTheCodingInterview\CrackingTheCodingInterview\bin\Debug\netcoreapp3.1\CrackingTheCodingInterview.runtimeconfig.dev.json
+C:\Users\shubh\source\repos\CrackingTheCodingInterview\CrackingTheCodingInterview\bin\Debug\netcoreapp3.1\CrackingTheCodingInterview.dll
+C:\Users\shubh\source\repos\CrackingTheCodingInterview\CrackingTheCodingInterview\bin\Debug\netcoreapp3.1\CrackingTheCodingInterview.pdb
+C:\Users\shubh\source\repos\CrackingTheCodingInterview\CrackingTheCodingInterview\obj\Debug\netcoreapp3.1\CrackingTheCodingInterview.csproj.AssemblyReference.cache
+C:\Users\shubh\source\repos\CrackingTheCodingInterview\CrackingTheCodingInterview\obj\Debug\netcoreapp3.1\CrackingTheCodingInterview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\source\repos\CrackingTheCodingInterview\CrackingTheCodingInterview\obj\Debug\netcoreapp3.1\CrackingTheCodingInterview.AssemblyInfoInputs.cache
+C:\Users\shubh\source\repos\CrackingTheCodingInterview\CrackingTheCodingInterview\obj\Debug\netcoreapp3.1\CrackingTheCodingInterview.AssemblyInfo.cs
+C:\Users\shubh\source\repos\CrackingTheCodingInterview\CrackingTheCodingInterview\obj\Debug\netcoreapp3.1\CrackingTheCodingInterview.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\CrackingTheCodingInterview\CrackingTheCodingInterview\obj\Debug\netcoreapp3.1\CrackingTheCodingInterview.dll
+C:\Users\shubh\source\repos\CrackingTheCodingInterview\CrackingTheCodingInterview\obj\Debug\netcoreapp3.1\CrackingTheCodingInterview.pdb
+C:\Users\shubh\source\repos\CrackingTheCodingInterview\CrackingTheCodingInterview\obj\Debug\netcoreapp3.1\CrackingTheCodingInterview.genruntimeconfig.cache

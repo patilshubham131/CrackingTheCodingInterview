@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t6ZLHwECImJqSFIqryQIiNlpu4eFMAvOjulS/5b1IEkfN8PDqE/qaUvAnmEk++jZZk38fTcNZxr+X22hWtsEig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shubh\\source\\repos\\CrackingTheCodingInterview\\CrackingTheCodingInterview\\CrackingTheCodingInterview.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shubh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

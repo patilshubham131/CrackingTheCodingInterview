@@ -12,8 +12,15 @@ namespace CrackingTheCodingInterview
 
 
             //2. check if one string is permutation of other string.
-            CheckIfOneStringIsPermutationOfOther perm = new CheckIfOneStringIsPermutationOfOther();
-            Console.WriteLine(perm.isPermutation("abc", "bacd"));
+            //CheckIfOneStringIsPermutationOfOther perm = new CheckIfOneStringIsPermutationOfOther();
+            //Console.WriteLine(perm.isPermutation("abc", "bacd"));
+
+            //3. Urlify string
+            UrlifyString us = new UrlifyString();
+            string input = "shubham patil from narvel";
+            us.UrlifyStringProblem(input); // using string replace function
+
+            us.replaceString(input.ToCharArray(), input.Length);//using character array and manually placing %20 instead of spaces
 
 
             Console.ReadLine();

@@ -16,12 +16,17 @@ namespace CrackingTheCodingInterview
             //Console.WriteLine(perm.isPermutation("abc", "bacd"));
 
             //3. Urlify string
-            UrlifyString us = new UrlifyString();
-            string input = "shubham patil from narvel";
-            us.UrlifyStringProblem(input); // using string replace function
+            //UrlifyString us = new UrlifyString();
+            //string input = "shubham patil from narvel";
+            //us.UrlifyStringProblem(input); // using string replace function
 
-            us.replaceString(input.ToCharArray(), input.Length);//using character array and manually placing %20 instead of spaces
+            //us.replaceString(input.ToCharArray(), input.Length);//using character array and manually placing %20 instead of spaces
 
+            //4. check if string is palindrom permutation
+            PermutationPalindrom pp = new PermutationPalindrom();
+            var result = pp.PermutationPalindromProblem("abbakjj");
+
+            Console.WriteLine(result);
 
             Console.ReadLine();
         }

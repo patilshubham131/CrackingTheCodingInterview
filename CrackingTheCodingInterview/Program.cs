@@ -23,10 +23,15 @@ namespace CrackingTheCodingInterview
             //us.replaceString(input.ToCharArray(), input.Length);//using character array and manually placing %20 instead of spaces
 
             //4. check if string is palindrom permutation
-            PermutationPalindrom pp = new PermutationPalindrom();
-            var result = pp.PermutationPalindromProblem("abbakjj");
+            //PermutationPalindrom pp = new PermutationPalindrom();
+            //var result = pp.PermutationPalindromProblem("abbakjj");
 
-            Console.WriteLine(result);
+
+            //5. one step away problem. replace/edit
+            OneAway oa =new OneAway();
+            Console.WriteLine(oa.OneAwayCheck("pale", "ble"));
+
+            //Console.WriteLine(result);
 
             Console.ReadLine();
         }

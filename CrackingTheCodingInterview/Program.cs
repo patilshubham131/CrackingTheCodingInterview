@@ -28,8 +28,14 @@ namespace CrackingTheCodingInterview
 
 
             //5. one step away problem. replace/edit
-            OneAway oa =new OneAway();
-            Console.WriteLine(oa.OneAwayCheck("pale", "ble"));
+            //OneAway oa =new OneAway();
+            //Console.WriteLine(oa.OneAwayCheck("pale", "ble"));
+
+            //6. string complression
+
+            StringCompression sc = new StringCompression();
+            var result = sc.stringComppressionProblem("aaabbccccaad");
+            Console.WriteLine(result);
 
             //Console.WriteLine(result);
 
